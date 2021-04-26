@@ -1,0 +1,13 @@
+{
+  "DEFAULTS": {
+    "AUTHORS": ["519573066268016641"],
+    "ACTIVITY_TEXT": "❤️ Kingdom Of Gods ❤️",
+    "GUILD_ID": "803253581166936095",
+    "VOICE_CHANNEL": "803253581935280159",
+    "MIN_STAFF_ROLE": "803253581414793252"
+  },
+  "FILES": {
+    "WELCOME": "ses/kingdom-of-gods-ses.mp3",
+    "STAFF": "ses/yetkili.mp3"
+  }
+}
